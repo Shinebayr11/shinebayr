@@ -1,0 +1,70 @@
+
+
+
+body{
+    background-color: white;
+    margin: 0px;
+}
+section{
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.row{
+    display: flex;
+}
+.col-2{
+    width: calc(100%/2);
+}
+/* nav */
+.nav-title img{
+    display: flex;
+}
+.nav-samsung{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+/* .flip-4 */
+.z-flip{
+    background-color: white;
+}
+.flip-title{
+   margin-left: 20px;
+}
+/* . */
+.new-galaxy{
+    display: flex;
+    margin-left: 20px
+}
+.galaxy h2{
+    color: ;
+}
+.new{
+    background-color: rgb(244, 244, 244);
+}
+.all{
+    display: flex;
+    margin-left: 150px;
+    
+}
+.all-tab{
+    display: flex;
+    margin-left: 80px ;
+}
+.hr{
+    padding: 3rem;
+}
+.sam img{
+    margin-left: 20px;
+}
+.foot{
+    margin-left: 108px;
+}
+
